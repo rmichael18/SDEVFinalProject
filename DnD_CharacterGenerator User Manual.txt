@@ -1,0 +1,5 @@
+DnD_CharacterGenerator User Manual
+
+
+Welcome, this program is a simple one so there won't be much to the instructions.
+Simply run this program and when prompted, enter a number between 1 and 20 (entered numerically) and then press Enter. The program will then randomly generate a D&D character for you with a full inventory, character description, stat block, etc. Don't like what you get? Run it again!
